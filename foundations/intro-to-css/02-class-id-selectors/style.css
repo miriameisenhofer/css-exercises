@@ -11,3 +11,9 @@
 #third-elem {
     font-size: 24px;
 }
+
+#fourth-elem {
+    background-color: hsl(109, 97%, 88%);
+    font-size: 24px;
+    font-weight: bold;
+}
