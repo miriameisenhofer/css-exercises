@@ -1,6 +1,6 @@
 .odd-nr {
     background-color: rgb(255, 150, 150);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second-elem {
@@ -8,7 +8,7 @@
     font-size: 36px;
 }
 
-#third-elem {
+.adjust-font-size {
     font-size: 24px;
 }
 
